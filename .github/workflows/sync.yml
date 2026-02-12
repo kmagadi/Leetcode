@@ -1,0 +1,29 @@
+name: Sync Leetcode
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: mkdir -p my-folder
+
+      - name: Test Auth
+        run: |
+          curl 'https://leetcode.com/graphql' \
+            -H 'Content-Type: application/json' \
+            -H "Cookie: LEETCODE_SESSION=${{ secrets.LEETCODESESSION }}; csrftoken=${{ secrets.CSRFTOKEN }}" \
+            --data-raw '{"query":"query { matchedUser(username: \"kbmagadi\") { username } }"}' \
+            > my-folder/test.json
+
+      - name: Commit
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "Test sync" || echo "No changes"
+          git push

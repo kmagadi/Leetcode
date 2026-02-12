@@ -24,7 +24,7 @@ Each commit message follows the format:
 
 ---
 
-## 🛠️ How I Work
+## How I Work
 - Solve problems on [LeetCode](https://leetcode.com).
 - Write clean, well-documented solutions.
 - Commit daily progress to this repo.

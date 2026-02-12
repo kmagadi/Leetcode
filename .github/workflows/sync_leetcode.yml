@@ -6,16 +6,26 @@ on:
     - cron: "0 8 * * 6"
 
 jobs:
-  build:
+  sync:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Sync
-        uses: anmol098/Leetcode-Solutions-Sync@main
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Install Node
+        uses: actions/setup-node@v4
         with:
-          github-token: ${{ github.token }}
-          leetcode-csrf-token: ${{ secrets.CSRFTOKEN }}
-          leetcode-session: ${{ secrets.LEETCODESESSION }}
-          destination-folder: my-folder
-          verbose: true
-          commit-header: "[LeetCode Sync]"
+          node-version: 18
+
+      - name: Install leetcode-cli
+        run: npm install -g leetcode-cli
+
+      - name: Configure LeetCode CLI
+        run: |
+          leetcode user -l https://leetcode.com \
+            -u ${{ secrets.LEETCODESESSION }}
+
+      - name: Fetch submissions
+        run: |
+          leetcode list

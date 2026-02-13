@@ -45,3 +45,27 @@ By solving **at least 2 problems every day**, I aim to:
 - Started: **February 2026**
 - Target: **Finish all 150 problems by mid-2026**
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+<!---LeetCode Topics End-->

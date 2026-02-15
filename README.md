@@ -78,6 +78,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/kmagadi/Leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
@@ -88,4 +89,8 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmagadi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

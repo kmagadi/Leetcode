@@ -56,6 +56,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmagadi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kmagadi/Leetcode/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,16 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->

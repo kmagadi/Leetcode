@@ -77,6 +77,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/kmagadi/Leetcode/tree/master/0189-rotate-array) |
+| [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +110,8 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->

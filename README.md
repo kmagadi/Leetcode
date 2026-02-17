@@ -61,6 +61,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +74,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -98,6 +100,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 ## Binary Search
 |  |
 | ------- |

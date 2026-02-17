@@ -51,6 +51,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kmagadi/Leetcode/tree/master/0001-two-sum) |
 | [0055-jump-game](https://github.com/kmagadi/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kmagadi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmagadi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -60,6 +61,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kmagadi/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer

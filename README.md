@@ -158,4 +158,8 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/kmagadi/Leetcode/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->

@@ -150,14 +150,17 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |

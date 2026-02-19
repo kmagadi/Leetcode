@@ -85,6 +85,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kmagadi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/kmagadi/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
@@ -126,6 +127,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kmagadi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
 ## Design
 |  |
@@ -142,5 +144,6 @@ By solving **at least 2 problems every day**, I aim to:
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/kmagadi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kmagadi/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->

@@ -95,6 +95,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kmagadi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/kmagadi/Leetcode/tree/master/0189-rotate-array) |
+| [0696-count-binary-substrings](https://github.com/kmagadi/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -112,6 +113,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0020-valid-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
+| [0696-count-binary-substrings](https://github.com/kmagadi/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Binary Search
 |  |
 | ------- |

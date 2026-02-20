@@ -65,6 +65,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kmagadi/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/kmagadi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kmagadi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/kmagadi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
@@ -87,6 +88,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/kmagadi/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/kmagadi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/kmagadi/Leetcode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
@@ -111,6 +113,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/kmagadi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |

@@ -136,6 +136,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/kmagadi/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
@@ -146,6 +147,7 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0020-valid-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/kmagadi/Leetcode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Linked List
 |  |
 | ------- |
@@ -156,6 +158,7 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0112-path-sum](https://github.com/kmagadi/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -168,6 +171,7 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0112-path-sum](https://github.com/kmagadi/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Database
 |  |
@@ -182,4 +186,12 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kmagadi/Leetcode/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->

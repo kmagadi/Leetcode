@@ -75,10 +75,12 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+| [0761-special-binary-string](https://github.com/kmagadi/Leetcode/tree/master/0761-special-binary-string) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
+| [0761-special-binary-string](https://github.com/kmagadi/Leetcode/tree/master/0761-special-binary-string) |
 ## Counting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/kmagadi/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/kmagadi/Leetcode/tree/master/0761-special-binary-string) |
 ## Binary Search
 |  |
 | ------- |

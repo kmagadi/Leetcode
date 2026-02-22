@@ -107,6 +107,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/kmagadi/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kmagadi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmagadi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -121,6 +122,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0012-integer-to-roman](https://github.com/kmagadi/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/kmagadi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/kmagadi/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -191,6 +193,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kmagadi/Leetcode/tree/master/0039-combination-sum) |
 ## Breadth-First Search
 |  |

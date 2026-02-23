@@ -200,6 +200,7 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0022-generate-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kmagadi/Leetcode/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/kmagadi/Leetcode/tree/master/0077-combinations) |
 ## Breadth-First Search
 |  |
 | ------- |

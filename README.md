@@ -61,6 +61,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/kmagadi/Leetcode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/kmagadi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Hash Table
 |  |
@@ -142,6 +143,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0238-product-of-array-except-self](https://github.com/kmagadi/Leetcode/tree/master/0238-product-of-array-except-self) |
 ## Recursion
 |  |
 | ------- |

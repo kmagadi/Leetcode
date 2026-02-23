@@ -75,6 +75,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +134,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 | [0696-count-binary-substrings](https://github.com/kmagadi/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/kmagadi/Leetcode/tree/master/0761-special-binary-string) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,4 +225,13 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kmagadi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/kmagadi/Leetcode/tree/master/0868-binary-gap) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->

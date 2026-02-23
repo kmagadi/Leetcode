@@ -52,6 +52,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kmagadi/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kmagadi/Leetcode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/kmagadi/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/kmagadi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/kmagadi/Leetcode/tree/master/0055-jump-game) |
@@ -80,6 +81,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kmagadi/Leetcode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/kmagadi/Leetcode/tree/master/0761-special-binary-string) |
 ## Counting
@@ -100,6 +102,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kmagadi/Leetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kmagadi/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/kmagadi/Leetcode/tree/master/0189-rotate-array) |

@@ -182,12 +182,14 @@ By solving **at least 2 problems every day**, I aim to:
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kmagadi/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
@@ -196,6 +198,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 ## Database
 |  |
 | ------- |

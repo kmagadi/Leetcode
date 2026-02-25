@@ -73,6 +73,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0013-roman-to-integer](https://github.com/kmagadi/Leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/kmagadi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/kmagadi/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kmagadi/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
@@ -159,6 +160,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/kmagadi/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/kmagadi/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -177,6 +179,7 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0002-add-two-numbers](https://github.com/kmagadi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/kmagadi/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/kmagadi/Leetcode/tree/master/0146-lru-cache) |
 ## Tree
 |  |
 | ------- |
@@ -241,4 +244,8 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/kmagadi/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

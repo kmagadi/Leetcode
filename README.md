@@ -97,6 +97,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kmagadi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1603-design-parking-system](https://github.com/kmagadi/Leetcode/tree/master/1603-design-parking-system) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +166,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0155-min-stack](https://github.com/kmagadi/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [1603-design-parking-system](https://github.com/kmagadi/Leetcode/tree/master/1603-design-parking-system) |
 ## Randomized
 |  |
 | ------- |
@@ -254,4 +256,5 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kmagadi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1603-design-parking-system](https://github.com/kmagadi/Leetcode/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->

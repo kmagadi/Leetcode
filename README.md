@@ -108,6 +108,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kmagadi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0761-special-binary-string](https://github.com/kmagadi/Leetcode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kmagadi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -223,6 +225,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/kmagadi/Leetcode/tree/master/0112-path-sum) |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -257,4 +260,12 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kmagadi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1603-design-parking-system](https://github.com/kmagadi/Leetcode/tree/master/1603-design-parking-system) |
+## Union-Find
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->

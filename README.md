@@ -148,6 +148,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0761-special-binary-string](https://github.com/kmagadi/Leetcode/tree/master/0761-special-binary-string) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kmagadi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Search
@@ -168,6 +169,7 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0002-add-two-numbers](https://github.com/kmagadi/Leetcode/tree/master/0002-add-two-numbers) |
 | [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Design
 |  |
 | ------- |
@@ -272,6 +274,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/kmagadi/Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/kmagadi/Leetcode/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 ## Union-Find

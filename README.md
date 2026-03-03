@@ -195,6 +195,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kmagadi/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kmagadi/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/kmagadi/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -204,6 +205,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kmagadi/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0112-path-sum](https://github.com/kmagadi/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -211,6 +213,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kmagadi/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kmagadi/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/kmagadi/Leetcode/tree/master/0112-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/kmagadi/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -237,6 +240,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/kmagadi/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kmagadi/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator

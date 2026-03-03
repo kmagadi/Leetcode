@@ -65,6 +65,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0238-product-of-array-except-self](https://github.com/kmagadi/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kmagadi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kmagadi/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0055-jump-game](https://github.com/kmagadi/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmagadi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kmagadi/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## String
 |  |
@@ -276,4 +278,8 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
+## Matrix
+|  |
+| ------- |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kmagadi/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 <!---LeetCode Topics End-->

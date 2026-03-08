@@ -67,6 +67,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/kmagadi/Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kmagadi/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kmagadi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +82,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -155,6 +157,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kmagadi/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kmagadi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Search
 |  |
@@ -240,6 +243,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0022-generate-parentheses](https://github.com/kmagadi/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/kmagadi/Leetcode/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/kmagadi/Leetcode/tree/master/0077-combinations) |
+| [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
 ## Breadth-First Search
 |  |
 | ------- |

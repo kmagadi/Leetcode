@@ -131,6 +131,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kmagadi/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmagadi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kmagadi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kmagadi/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +174,7 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/kmagadi/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/kmagadi/Leetcode/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 ## Recursion
 |  |
 | ------- |

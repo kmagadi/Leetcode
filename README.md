@@ -140,6 +140,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmagadi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kmagadi/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kmagadi/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String
 |  |
 | ------- |
@@ -165,6 +166,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kmagadi/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
 | ------- |
@@ -294,6 +296,7 @@ By solving **at least 2 problems every day**, I aim to:
 ## Union-Find
 |  |
 | ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kmagadi/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Ordered Set
 |  |
@@ -304,4 +307,12 @@ By solving **at least 2 problems every day**, I aim to:
 | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kmagadi/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kmagadi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kmagadi/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kmagadi/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->

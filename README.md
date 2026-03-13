@@ -68,6 +68,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kmagadi/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/kmagadi/Leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kmagadi/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +115,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kmagadi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kmagadi/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Two Pointers
 |  |
@@ -140,6 +142,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kmagadi/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/kmagadi/Leetcode/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kmagadi/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kmagadi/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## String
 |  |
@@ -166,6 +169,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/kmagadi/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kmagadi/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kmagadi/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Sliding Window
 |  |
@@ -316,4 +320,8 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/kmagadi/Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kmagadi/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 <!---LeetCode Topics End-->

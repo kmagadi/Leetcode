@@ -114,6 +114,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0390-elimination-game](https://github.com/kmagadi/Leetcode/tree/master/0390-elimination-game) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kmagadi/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [1622-fancy-sequence](https://github.com/kmagadi/Leetcode/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kmagadi/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
@@ -198,6 +199,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0380-insert-delete-getrandom-o1](https://github.com/kmagadi/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1603-design-parking-system](https://github.com/kmagadi/Leetcode/tree/master/1603-design-parking-system) |
+| [1622-fancy-sequence](https://github.com/kmagadi/Leetcode/tree/master/1622-fancy-sequence) |
 ## Randomized
 |  |
 | ------- |
@@ -326,4 +328,8 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/kmagadi/Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Segment Tree
+|  |
+| ------- |
+| [1622-fancy-sequence](https://github.com/kmagadi/Leetcode/tree/master/1622-fancy-sequence) |
 <!---LeetCode Topics End-->

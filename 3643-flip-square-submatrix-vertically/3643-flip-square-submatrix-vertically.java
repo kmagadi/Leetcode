@@ -3,14 +3,12 @@ class Solution
     public int[][] reverseSubmatrix(int[][] grid, int x, int y, int k) 
     {
         int lastProcessedRow = x + k - 1;
-        boolean[] rowProcessed = new boolean[ grid.length ];
 
         for( int i = 0; i < grid.length; i++ ) 
         {
-            if( i >= x && !rowProcessed[ i ] && i < lastProcessedRow )
+            if( i >= x && i < lastProcessedRow )
             {
                 swap( grid, i, lastProcessedRow, y, k );
-                rowProcessed[ i ] = true;
                 lastProcessedRow -= 1;
             }
         }

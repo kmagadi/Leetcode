@@ -4,7 +4,7 @@ class Solution
     {
         int lastProcessedRow = x + k - 1;
 
-        for( int i = 0; i < grid.length; i++ ) 
+        for( int i = x; i < grid.length; i++ ) 
         {
             if( i >= x && i < lastProcessedRow )
             {

@@ -1,33 +1,29 @@
-class Solution 
-{
-    public List< String > generateParenthesis( int n ) 
+class Solution {
+    private void helper( List<String> res, int n, int open, int close, StringBuilder currStr )
     {
-        List< String > resList = new ArrayList<>();
-
-        backtrack( n, 0, 0, resList, new StringBuilder() );
-        
-        return resList;
-    }
-
-    private void backtrack( int n, int openBraces, int closeBraces, List<String> resList, StringBuilder sb ) 
-    {
-        if ( sb.length() == n * 2 ) 
+        if( n == open && n == close )
         {
-            resList.add( sb.toString() );
+            res.add( currStr.toString() );
             return;
         }
-        if ( openBraces < n ) 
-        {
-            sb.append( '(' );
-            backtrack( n, openBraces + 1, closeBraces, resList, sb );
-            sb.deleteCharAt(sb.length() - 1);
-        }
+        if( open > n || close > n )
+            return;
 
-        if ( closeBraces < openBraces ) 
+        if( open < n )
         {
-            sb.append( ')' );
-            backtrack( n, openBraces, closeBraces + 1, resList, sb );
-            sb.deleteCharAt( sb.length() - 1 );
+            helper( res, n, open + 1, close, currStr.append('(') );
+            currStr.deleteCharAt( currStr.length() - 1 );
         }
+        if( close < open ){
+            helper( res, n, open, close + 1, currStr.append(')') );
+            currStr.deleteCharAt( currStr.length() - 1 );
+        }
+    }
+    public List<String> generateParenthesis( int n ) {
+        List<String> res = new ArrayList<>();
+        StringBuilder currStr = new StringBuilder();
+        currStr.append('(');
+        helper( res, n, 1, 0, currStr );
+        return res;
     }
 }

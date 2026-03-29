@@ -186,6 +186,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/kmagadi/Leetcode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/kmagadi/Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kmagadi/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Binary Search
 |  |

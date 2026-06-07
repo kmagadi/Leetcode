@@ -73,6 +73,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/kmagadi/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/kmagadi/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kmagadi/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2906-construct-product-matrix](https://github.com/kmagadi/Leetcode/tree/master/2906-construct-product-matrix) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/kmagadi/Leetcode/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/kmagadi/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -96,6 +97,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0383-ransom-note](https://github.com/kmagadi/Leetcode/tree/master/0383-ransom-note) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/kmagadi/Leetcode/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kmagadi/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kmagadi/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kmagadi/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Divide and Conquer
@@ -263,6 +265,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kmagadi/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -284,6 +287,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0173-binary-search-tree-iterator](https://github.com/kmagadi/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kmagadi/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/kmagadi/Leetcode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Database
 |  |
 | ------- |

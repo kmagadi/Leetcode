@@ -195,6 +195,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [1980-find-unique-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/kmagadi/Leetcode/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/kmagadi/Leetcode/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/kmagadi/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/kmagadi/Leetcode/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/kmagadi/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Binary Search
@@ -346,6 +347,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/kmagadi/Leetcode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1603-design-parking-system](https://github.com/kmagadi/Leetcode/tree/master/1603-design-parking-system) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/kmagadi/Leetcode/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [3612-process-string-with-special-operations-i](https://github.com/kmagadi/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 ## Union-Find
 |  |
 | ------- |

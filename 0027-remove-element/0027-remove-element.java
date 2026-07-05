@@ -2,32 +2,24 @@ class Solution
 {
     public int removeElement( int[] nums, int val ) 
     {
-        if( nums.length == 0 ) return 0;
-        if( nums.length == 1 && nums[ 0 ] == val )
-            return 0;
-        if( nums.length == 1 && nums[ 0 ] != val ) 
-            return 1;
+        int start = 0;
+        int end = nums.length - 1;
 
-        int[] tempArr = new int[ nums.length ];
-        Arrays.fill( tempArr, -100 );
-        int tempInd = 0;
-
-        for( int i = 0; i < nums.length; i++ )
+        while ( start <= end ) 
         {
-            if( nums[ i ] != val )
+            if ( nums[ start ] == val ) 
             {
-                tempArr[ tempInd ] = nums[ i ];
-                tempInd++;
+                nums[ start ] = nums[ end ];
+                
+                end--;
+                
+            } 
+            else 
+            {
+                start++;
             }
         }
 
-        for( int i = 0; i < nums.length; i++ )
-        {
-            if( tempArr[ i ] == -100 ) 
-                break;
-            nums[ i ] = tempArr[ i ];
-        }
-        
-        return tempInd;
+        return start;
     }
-}
+}   

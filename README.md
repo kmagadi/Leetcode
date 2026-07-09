@@ -58,6 +58,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0039-combination-sum](https://github.com/kmagadi/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/kmagadi/Leetcode/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/kmagadi/Leetcode/tree/master/0055-jump-game) |
+| [0075-sort-colors](https://github.com/kmagadi/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kmagadi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/kmagadi/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kmagadi/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -117,6 +118,7 @@ By solving **at least 2 problems every day**, I aim to:
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kmagadi/Leetcode/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/kmagadi/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kmagadi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/kmagadi/Leetcode/tree/master/0169-majority-element) |
 | [0761-special-binary-string](https://github.com/kmagadi/Leetcode/tree/master/0761-special-binary-string) |
@@ -154,6 +156,7 @@ By solving **at least 2 problems every day**, I aim to:
 | [0015-3sum](https://github.com/kmagadi/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmagadi/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kmagadi/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/kmagadi/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/kmagadi/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/kmagadi/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/kmagadi/Leetcode/tree/master/0141-linked-list-cycle) |
